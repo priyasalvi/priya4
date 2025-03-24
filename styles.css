@@ -1,0 +1,30 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ff4d4d; /* Red background */
+    color: white;
+    line-height: 1.6;
+    padding-top: 80px;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+a:hover {
+    color: #f1c40f;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #ff4d4d; /* Red header */
+    padding:
